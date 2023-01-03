@@ -18,6 +18,10 @@ You may also see any lint errors in the console.
 
 Simply is a generic kanban board application (frontend) that can be used for bug tracking , ticket management or personal work-management. However, based on the needs small tweaks might be needed in the application. 
 
+### SnapShot of project
+![simply-gif](https://user-images.githubusercontent.com/91608996/210347566-f076b3a1-f5a2-4289-9782-d8aa0e5e897a.gif)
+
+
 Feel free to clone the repo and make changes accordingly
 
 ** Readily available features are as follows:
